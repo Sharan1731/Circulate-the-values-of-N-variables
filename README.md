@@ -33,4 +33,4 @@ def circulate():
 !["Output"](/swapcirculate.png)
 
 ## Result:
-Thus the python program for Circulate the values of n variables is executed successfully
+Thus the python program for Circulate the values of n variables is executed successfully.
